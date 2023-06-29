@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Shiptory/static/css/main.576c46d6.css",
+    "main.js": "/Shiptory/static/js/main.4ece991d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/Shiptory/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo jovi.png": "/Shiptory/static/media/logo jovi.f2a7f5342b9aac68cd0c.png",
+    "index.html": "/Shiptory/index.html",
+    "main.576c46d6.css.map": "/Shiptory/static/css/main.576c46d6.css.map",
+    "main.4ece991d.js.map": "/Shiptory/static/js/main.4ece991d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/Shiptory/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576c46d6.css",
+    "static/js/main.4ece991d.js"
+  ]
+}
